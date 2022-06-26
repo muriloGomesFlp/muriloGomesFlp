@@ -77,13 +77,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/muriloGomesFlp/muriloGomesFlp/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/muriloGomesFlp/count.svg?"  />
