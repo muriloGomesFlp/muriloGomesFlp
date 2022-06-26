@@ -2,15 +2,32 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=muriloGomesFlp" height="150" alt="stats graph"  />
+<p align="left">I currently work in OPTIMA TECH company, when I develop interfaces with React JS and functionalities of the in Python backend. The two most important projects are Digital Twin for industry in general and Mitra for analysis of mineral for a specific client.</p>
+
+###
+
+<h3 align="left">Bio</h3>
+
+###
+
+<p align="left">Federal University of Santa Catarina - UFSC PhD in Engineering and Knowledge Management from the Federal University of Catarina - UFSC. He has experience in building Information Systems, Mobile and Web Systems, as well as knowledge in building services on servers (Linux and Windows) and in implementation (Azure, Google, AWS and Ocean Digital). He also has experience with the following technologies: PHP, Python (frameworks: Django, Flask, Kivy, Qt, among others), Dart, Java Script, NodeJ/Express, ReactJs, Flutter, HTML, CSS, C, Shell Script, Mysql, Firebase, MongoDB and Containers (Docker and Kubernetes). It has mainly in the following: open data, mobile applications in Flutter, web development with Flutter or ReactJS, SQL and ReactJS data mining, semantic web, SQL and NoSQL databases, computer networks, operating systems and Linux and Windows server administration</p>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=muriloGomesFlp" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=muriloGomesFlp" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="130" src="https://media-exp2.licdn.com/dms/image/C4E03AQHTNDktFemNrQ/profile-displayphoto-shrink_400_400/0/1575986604389?e=1661990400&v=beta&t=jXXdr-thxogaat4ZdhQzPYZCXnkR2ZhazVoiRnx97KE"  />
+<h6 align="left">Techs that I work and studying</h6>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -41,7 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="42" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" width="42" alt="threejs logo"  />
 </div>
 
 ###
@@ -65,4 +81,12 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/muriloGomes/muriloGomes/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/muriloGomesFlp/muriloGomesFlp/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/muriloGomesFlp/count.svg?"  />
+</div>
+
+###
