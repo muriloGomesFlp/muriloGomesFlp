@@ -16,13 +16,7 @@
 
 <br clear="both">
 
-<img align="left" height="120" src="https://media-exp2.licdn.com/dms/image/C4E03AQHTNDktFemNrQ/profile-displayphoto-shrink_100_100/0/1575986604389?e=1661990400&v=beta&t=qhB0OfqmEDKEtxz-7p8vHkKnQ_Zt_vMntpyR12Oykl4"  />
-
-###
-
-<br clear="both">
-
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=muriloGomesFlp" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=muriloGomesFlp" height="150" alt="languages graph"  />
 </div>
